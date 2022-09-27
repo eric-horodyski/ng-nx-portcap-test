@@ -1,5 +1,8 @@
-## Steps Taken
+## Reproduce
 
-1. Install `@nxtext/ionic-angular` as dev dependency
-2. nx g @nxext/ionic-angular:application shell
-3. nx g rm shell-e2e
+```
+npm run build:all
+nx run shell:add:ios
+nx run shell:sync:ios
+nx run shell:open:ios
+```
