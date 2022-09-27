@@ -10,6 +10,7 @@
   },
   "private": true,
   "devDependencies": {
+    "@angular-architects/module-federation": "~14.3.10",
     "@angular-devkit/build-angular": "~14.2.0",
     "@angular-eslint/eslint-plugin": "~14.0.4",
     "@angular-eslint/eslint-plugin-template": "~14.0.4",
